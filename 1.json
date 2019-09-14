@@ -1,0 +1,15 @@
+{
+    "nama": "Taufik Ibrahim",
+    "umur": 25,
+    "address": "Serang baru, Bekasi",
+    "hobbies": ["coding", "Futsal", "Gaming"],
+    "is_married": true,
+    "interest_in_coding": true,
+    "list_school": ["ASAL SEKOLAH"],
+    "tahun": {
+        "2000-2006": "SDN SUKARAGAM 01",
+        "2006-2009": "MTS DARUL MUALLAMAH",
+        "2009-2012": "SMAN 02 CIKARANG PUSAT",
+        "2012-2017": "STT PELITA BANGSA"
+    }
+}
